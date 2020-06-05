@@ -1,4 +1,4 @@
-#Sat May 02 17:47:41 IST 2020
-base.0=/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Jun 05 18:58:16 IST 2020
+base.0=/Users/shubhanshu/Desktop/UGCDesign/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -12,43 +12,43 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:8:5-66
-14-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:8:22-64
+14-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:8:5-66
+14-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:8:22-64
 15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-15-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
-15-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+15-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+15-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
-16-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+16-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+16-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
 17    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
-17-->[:photo_manager] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
-17-->[:photo_manager] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
+17-->[:photo_manager] /Users/shubhanshu/Desktop/UGCDesign/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-80
+17-->[:photo_manager] /Users/shubhanshu/Desktop/UGCDesign/build/photo_manager/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-77
 18
 19    <application
-19-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:10:5-53:19
+19-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:10:5-53:19
 20        android:name="io.flutter.app.FlutterApplication"
-20-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:11:9-57
+20-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:11:9-57
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.1.0] /home/shubhanshu/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+21-->[androidx.core:core:1.1.0] /Users/shubhanshu/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
 22        android:debuggable="true"
 23        android:icon="@mipmap/ic_launcher"
-23-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:13:9-43
+23-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:13:9-43
 24        android:label="ugcdesign" >
-24-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:12:9-34
+24-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:12:9-34
 25        <activity
-25-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:14:9-42:20
+25-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:14:9-42:20
 26            android:name="com.example.ugcdesign.MainActivity"
-26-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:15:13-41
+26-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:15:13-41
 27            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-27-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:18:13-163
+27-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:18:13-163
 28            android:hardwareAccelerated="true"
-28-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:19:13-47
+28-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:19:13-47
 29            android:launchMode="singleTop"
-29-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:16:13-43
+29-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:16:13-43
 30            android:theme="@style/LaunchTheme"
-30-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:17:13-47
+30-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:17:13-47
 31            android:windowSoftInputMode="adjustResize" >
-31-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:20:13-55
+31-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:20:13-55
 32
 33            <!--
 34                 Specifies an Android theme to apply to this Activity as soon as
@@ -57,11 +57,11 @@
 37                 to determine the Window background behind the Flutter UI.
 38            -->
 39            <meta-data
-39-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:25:13-28:17
+39-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:25:13-28:17
 40                android:name="io.flutter.embedding.android.NormalTheme"
-40-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:26:15-70
+40-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:26:15-70
 41                android:resource="@style/NormalTheme" />
-41-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:27:15-52
+41-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:27:15-52
 42            <!--
 43                 Displays an Android View that continues showing the launch screen
 44                 Drawable until Flutter paints its first frame, then this splash
@@ -70,58 +70,58 @@
 47                 Flutter's first frame.
 48            -->
 49            <meta-data
-49-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:34:13-37:17
+49-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:34:13-37:17
 50                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-50-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:35:15-79
+50-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:35:15-79
 51                android:resource="@drawable/launch_background" />
-51-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:36:15-61
+51-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:36:15-61
 52
 53            <intent-filter>
-53-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:38:13-41:29
+53-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:38:13-41:29
 54                <action android:name="android.intent.action.MAIN" />
-54-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:39:17-68
-54-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:39:25-66
+54-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:39:17-68
+54-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:39:25-66
 55
 56                <category android:name="android.intent.category.LAUNCHER" />
-56-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:40:17-76
-56-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:40:27-74
+56-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:40:17-76
+56-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:40:27-74
 57            </intent-filter>
 58        </activity>
 59        <activity
-59-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:43:10-46:71
+59-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:43:10-46:71
 60            android:name="com.yalantis.ucrop.UCropActivity"
-60-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:44:13-60
+60-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:44:13-60
 61            android:screenOrientation="portrait"
-61-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:45:13-49
+61-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:45:13-49
 62            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-62-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:46:13-69
+62-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:46:13-69
 63        <!--
 64             Don't delete the meta-data below.
 65             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 66        -->
 67        <meta-data
-67-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:49:9-51:33
+67-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:49:9-51:33
 68            android:name="flutterEmbedding"
-68-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:50:13-44
+68-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:50:13-44
 69            android:value="2" />
-69-->/home/shubhanshu/Desktop/AllDesktopData/ugcdesign/android/app/src/main/AndroidManifest.xml:51:13-30
+69-->/Users/shubhanshu/Desktop/UGCDesign/android/app/src/main/AndroidManifest.xml:51:13-30
 70
 71        <provider
-71-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+71-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
 72            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-72-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+72-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
 73            android:authorities="com.example.ugcdesign.flutter.image_provider"
-73-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+73-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
 74            android:exported="false"
-74-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+74-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
 75            android:grantUriPermissions="true" >
-75-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+75-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
 76            <meta-data
-76-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+76-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
 77                android:name="android.support.FILE_PROVIDER_PATHS"
-77-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+77-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
 78                android:resource="@xml/flutter_image_picker_file_paths" />
-78-->[:image_picker] /home/shubhanshu/Desktop/AllDesktopData/ugcdesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+78-->[:image_picker] /Users/shubhanshu/Desktop/UGCDesign/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
 79        </provider>
 80    </application>
 81
